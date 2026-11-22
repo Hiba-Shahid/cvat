@@ -98,8 +98,7 @@ existing permission behaviour actually returned.
       Evidence: origin https://github.com/Hiba-Shahid/cvat.git,
       branch dev-test01 at commit 43416f271.
 - [x] One PR opened from dev-test01 into my fork's main branch.
-      Evidence: https://github.com/cvat-ai/cvat/pull/11511
-      (Hiba-Shahid/cvat:dev-test01 into cvat-ai/cvat:develop, PR #11511).
+      Evidence: https://github.com/Hiba-Shahid/cvat/pull/1
 - [x] Loom recording is no longer than 5 minutes and answers K1-K4 without notes.
       Evidence: https://www.loom.com/share/d0cab146d54b491092a8646792f4bc6b
       (title: Annotations Endpoint and Backend Optimization; duration: 5 min).
